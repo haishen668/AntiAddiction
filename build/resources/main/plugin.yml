@@ -1,0 +1,8 @@
+name: AntiAddiction
+version: '1.0.0'
+main: ltd.dreamcraft.antiaddiction.AntiAddiction
+api-version: '1.13'
+commands:
+  AntiAddiction:
+    aliases:
+      - "aad"
